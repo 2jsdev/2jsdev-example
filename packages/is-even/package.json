@@ -1,0 +1,21 @@
+{
+  "name": "@2jsdev/is-even",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "compile": "rm -rf dist/* && tsc -p tsconfig.pkg.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2jsdev/acme-corp-example.git"
+  },
+  "keywords": [],
+  "author": "Jordy Morales <dev.morales.jordy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2jsdev/acme-corp-example/issues"
+  },
+  "homepage": "https://github.com/2jsdev/acme-corp-example#readme"
+}
